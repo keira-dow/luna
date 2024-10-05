@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+body {
+  background-color: #f33939;
+.todo {
+  background-color: #57ffa0;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgb(242, 49, 59, 0.1);
+}
+h1 {
+  text-align: center;
+  color: #f33939;
+}
+  .input-section {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  input, button {
+    padding: 5px;
+    border-radius: 5px;
+    color: #f33939 
+  }
